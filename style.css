@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+    width:90%;
+    color:#e29ba5;
+    text-align:center; 
+    font-size: 2vw;
+    margin: auto;
+   
+}
+
+}
+.header{
+    color:#d60606;
+}
+
+.neonText {
+  color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #e29ba5,
+    0 0 82px #e29ba5,
+    0 0 92px #e29ba5,
+    0 0 102px #e29ba5,
+    0 0 151px #e29ba5;
+}
+h1{
+    color:white;
+    font-size:15vw;
+}
+h3{
+    color:mistyrose;
+    font-size: 5vw;
+    
+}
+h2{
+    font-family: 'Dancing Script',cursive;
+    font-size: 5vw;
+}
+.neonText {
+  color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #d60606,
+    0 0 82px #d60606,
+    0 0 92px #d60606,
+    0 0 102px #d60606,
+    0 0 151px #d60606;
+}
+.header2{
+    color:#fff;
+}
+.header3{
+    color:#fad2d2;
+}
+.responsive {
+  width: 15%;
+  height: auto;
+}
